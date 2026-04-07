@@ -15,3 +15,7 @@ Clone este repositório e abra o arquivo `index.html` em qualquer navegador.
 ```bash
 git clone https://github.com/seu-usuario/single-page-html-cv
 cd single-page-html-cv
+
+
+URL DO PROJETO:
+https://roadmap.sh/projects/single-page-cv
